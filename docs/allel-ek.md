@@ -6,4 +6,6 @@
 
 **Fav Food:** Chips
 
+**Fav colour:** Blue
+
 **Hobby:** Beer
