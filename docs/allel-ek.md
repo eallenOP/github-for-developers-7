@@ -9,3 +9,5 @@
 **Fav colour:** Blue
 
 **Hobby:** Beer
+
+**City:** Port Chalmers
